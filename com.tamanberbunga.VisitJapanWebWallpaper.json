@@ -4,7 +4,7 @@
       "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
       "interval_interstitial": 2,
       "show_credit_info": true,
-      "make_app_crash": false,
+      "make_app_crash": true,
       "switch_ads_type": "banner_native_linear",
       "add_intro_menu_activity": true
     },
