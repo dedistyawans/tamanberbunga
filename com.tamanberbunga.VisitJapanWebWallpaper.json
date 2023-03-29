@@ -1,0 +1,54 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
+      "interval_interstitial": 2,
+      "show_credit_info": true,
+      "make_app_crash": false,
+      "switch_ads_type": "banner_native_linear",
+      "add_intro_menu_activity": true
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "201136370",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings": {
+    "template_mode" : 1,
+    "enable_intro_guide": false,
+
+    "open_image_mode_square": false,
+
+    "offline" : true,
+
+    "online" : false,
+    "online_url_json" : "https://app.labigsharim.me/dev_andri_eko/com.andriekodev.walljson/json.php?content=online",
+
+    "more" : false,
+    "more_category" : false,
+    "more_url_api": "https://app.labigsharim.me/dev_andri_eko/more.php",
+
+    "make_app_crash_when_locale_US": false,
+    "make_app_maintenance_when_locale_US": false
+  },
+
+  "list_data_url_guide_intro": [
+    "https://latoquiz.blogspot.com/p/ini-contoh.html",
+    "https://latoquiz.blogspot.com/p/ini-contoh.html",
+    "https://latoquiz.blogspot.com/p/ini-contoh.html",
+    "https://latoquiz.blogspot.com/p/ini-contoh.html",
+    "https://latoquiz.blogspot.com/p/ini-contoh.html"
+  ]
+}
