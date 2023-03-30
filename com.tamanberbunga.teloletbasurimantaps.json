@@ -1,0 +1,29 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
+      "interval_interstitial": 7,
+      "interstitial_type": "lap",
+      "switch_ads_type": "banner_native_linear"
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "201136370",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings": {
+    "aktifkan_interstitial_saat_play_telolet" : true
+  }
+}
