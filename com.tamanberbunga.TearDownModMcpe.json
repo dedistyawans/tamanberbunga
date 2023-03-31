@@ -1,0 +1,389 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
+      "interval_interstitial": 3,
+      "switch_ads_type": "banner_native_linear",
+      "interstitial_type": "lap",
+      "make_app_crash": true
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "201136370",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings": {
+    "enable_intro_mod_addon" : true,
+    "contentType": "maps",
+    "enable_intro_mod_addon_banner_ads" : false,
+    "template_mode": 2,
+    "interval_native_ads_on_list_maps": 9,
+    "interval_native_ads_on_list_addons": 9,
+    "mode_template_alien" : "1",
+    "interstitial_ads_after_download_install" : false,
+    "enable_offline_skin": true,
+    "enable_online_skin": false
+  },
+
+  "online_skin": [
+    {
+      "skin_url": "https://lh3.googleusercontent.com/qCz5w5v6la5BZJ99M2dc133FuUjsBkFNjGOBnzTTTAwCt7arD_B4KQrY8mbAcwiay8ehD2Qy0LZptAe1ztUQuI7w5dbszJQ4vceA",
+      "view_skin": "https://lh3.googleusercontent.com/dCMekJIwBTOs3xbdyPlh5ij3T7oX8H2cS5qbKte0-QcRB-G6B7bQkxzQRw8y58IZ9tFjulTEx2dyLKh_U0675Sg-jMFrDWNbFFQ"
+    }
+  ],
+
+  "Skin-Pack": [
+    {
+      "name_skin": "Mixue Skin Pack",
+      "skin_url": "file:///android_asset/offline_skin_pack/MixueMod.mcpack",
+      "view_skin": "https://blobs.omlet.gg/blob/bG9uZ2RhbjovL1RXTy9sZHByb2Qtc2cvR0t6VzhpNlVQQWJ0RGFDV3VhVXRCdz09",
+      "des_skin": "file:///android_asset/offline_skin_pack/MixueMod.html"
+    },
+    {
+      "name_skin": "Among Us",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Among Us.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96185/101/among-us_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Among Us.html"
+    },
+    {
+      "name_skin": "Assassins Creed",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Assassins Creed.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/91116/101/sin-ttulo1_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Assassins Creed.html"
+    },
+    {
+      "name_skin": "Axolot",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Axolot.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/94350/102/diseo-sin-ttulo-2_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Axolot.html"
+    },
+    {
+      "name_skin": "BeyBlox",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/BeyBlox.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/97535/101/minecraft-1292023-44955-pm_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/BeyBlox.html"
+    },
+    {
+      "name_skin": "BoxHead",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/BoxHead.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98007/100/boxhead_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/BoxHead.html"
+    },
+    {
+      "name_skin": "Dinos",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Dinos.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100013/100/dinos_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Dinos.html"
+    },
+    {
+      "name_skin": "Doctor Who",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Doctor Who.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98800/100/20230301-1_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Doctor Who.html"
+    },
+    {
+      "name_skin": "Flags in Steve",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Flags in Steve.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/95518/101/flags_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Flags in Steve.html"
+    },
+    {
+      "name_skin": "Kakegurui Anime",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Kakegurui Anime.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96910/100/kakeguruiw_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Kakegurui Anime.html"
+    },
+    {
+      "name_skin": "Male Pokmon Caracter",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Male Pokmon Caracter.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100014/101/treinadores_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Male Pokmon Caracter.html"
+    },
+    {
+      "name_skin": "Monkey Stick",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Monkey Stick.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/97211/100/minecraft-172023-125221-pm_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Monkey Stick.html"
+    },
+    {
+      "name_skin": "Neon Mobs",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Neon Mobs.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100161/100/diseo-sin-ttulo_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Neon Mobs.html"
+    },
+    {
+      "name_skin": "Pajamas",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Pajamas.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/99087/100/pajamas_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Pajamas.html"
+    },
+    {
+      "name_skin": "Particle",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Particle.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/76888/100/particle-skins-portada_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Particle.html"
+    },
+    {
+      "name_skin": "Phoenix Wright",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Phoenix Wright.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/97787/100/1675373969839_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Phoenix Wright.html"
+    },
+    {
+      "name_skin": "Regular Show",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Regular Show.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/97097/100/regular-show_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Regular Show.html"
+    },
+    {
+      "name_skin": "Shrek",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Shrek.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98226/100/shrek_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Shrek.html"
+    },
+    {
+      "name_skin": "Steve and Alex Holding",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Steve and Alex Holding.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96835/101/steve-and-alex-holding_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Steve and Alex Holding.html"
+    },
+    {
+      "name_skin": "Teyvat",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Teyvat.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/69543/107/images_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Teyvat.html"
+    },
+    {
+      "name_skin": "The Connected Dream",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/The Connected Dream.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/72776/116/20230205193851_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/The Connected Dream.html"
+    },
+    {
+      "name_skin": "Valorant",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Valorant.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/91480/100/valorant_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Valorant.html"
+    },
+    {
+      "name_skin": "Winter Girl Skin",
+      "skin_url": "https://thirteenvideo.com/MinecraftMod/SkinPack/Winter Girl Skin.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/3336/140/20221028155129_1-520x245.png",
+      "des_skin": "https://thirteenvideo.com/MinecraftMod/SkinPack/Winter Girl Skin.html"
+    }
+  ],
+
+  "Addons": [
+    {
+      "name_add": "Aquatic Creatures",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Aquatic Creatures B.mcaddon",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Aquatic Creatures R.mcaddon",
+      "view_add": "https://api.mcpedl.com/storage/submissions/100667/101/sin-ttulo_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Aquatic Creatures.html"
+    },
+    {
+      "name_add": "Ender Scepter",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Ender Scepter B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Ender Scepter R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/100944/100/minecraft-3222023-42202-pm_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Ender Scepter.html"
+    },
+    {
+      "name_add": "Expansive Ores",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Expansive Ores B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Expansive Ores R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/83026/120/20230313145353_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Expansive Ores.html"
+    },
+    {
+      "name_add": "Medieval Furniture",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Medieval Furniture B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Medieval Furniture R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/88120/100/i_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Medieval Furniture.html"
+    },
+    {
+      "name_add": "Modern Furniture",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Modern Furniture B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Modern Furniture R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/79202/152/sss_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Modern Furniture.html"
+    },
+    {
+      "name_add": "Nicos Mobs",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Nicos Mobs B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Nicos Mobs R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/84186/104/export202303160829444080_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Nicos Mobs.html"
+    },
+    {
+      "name_add": "Simple Wands",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Simple Wands B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Simple Wands R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/98842/100/pack_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Simple Wands.html"
+    },
+    {
+      "name_add": "True Backpack",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/True Backpack B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/True Backpack R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/70086/124/true-backpack-117_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/True Backpack.html"
+    },
+    {
+      "name_add": "Waifus 3.0",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Waifus 3.0 B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Waifus 3.0 R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/93169/105/66ddd8tthdgtxsadsadsddsddtry_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Waifus 3.0.html"
+    },
+    {
+      "name_add": "Working TV",
+      "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Working TV B.mcpack",
+      "addR_url": "https://thirteenvideo.com/MinecraftMod/Addons/Working TV R.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/34660/106/thumbnail_1-520x245.png",
+      "des_add": "https://thirteenvideo.com/MinecraftMod/Addons/Working TV.html"
+    }
+  ],
+
+  "Maps": [
+    {
+      "name_map": "Zombie Survival",
+      "view_map": "https://api.mcpedl.com/storage/submissions/85086/103/20230323060108_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Zombie Survival.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Zombie Survival.html"
+    },
+    {
+      "name_map": "City of New Greens",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98887/100/screenshot20220724131729commojangminecraftpe_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/City of New Greens.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/City of New Greens.html"
+    },
+    {
+      "name_map": "Complex Escape",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98021/100/img20230209173839_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Complex Escape.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Complex Escape.html"
+    },
+    {
+      "name_map": "Custom Village",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98974/100/1678180093601_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Custom Village.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Custom Village.html"
+    },
+    {
+      "name_map": "Escape From The Prison",
+      "view_map": "https://api.mcpedl.com/storage/submissions/92567/100/principalthumbnail_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Escape From The Prison.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Escape From The Prison.html"
+    },
+    {
+      "name_map": "Escape House",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98206/100/capture-20230213-215444_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Escape House.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Escape House.html"
+    },
+    {
+      "name_map": "FindTheButton MultiBiomes",
+      "view_map": "https://api.mcpedl.com/storage/submissions/97794/100/findthebutton-map_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/FindTheButton MultiBiomes.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/FindTheButton MultiBiomes.html"
+    },
+    {
+      "name_map": "Harder End Fight",
+      "view_map": "https://api.mcpedl.com/storage/submissions/100635/100/minecraft-3182023-62829-pm_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Harder End Fight.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Harder End Fight.html"
+    },
+    {
+      "name_map": "Haystack13s Five Nights at Freddys Modded Map",
+      "view_map": "https://api.mcpedl.com/storage/submissions/99166/102/new-project-2_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Haystack13s Five Nights at Freddys Modded Map.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Haystack13s Five Nights at Freddys Modded Map.html"
+    },
+    {
+      "name_map": "Marvis City 8.0",
+      "view_map": "https://api.mcpedl.com/storage/submissions/42915/116/screenshot20230304053919commojangminecraftpe_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Marvis City 8.0.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Marvis City 8.0.html"
+    },
+    {
+      "name_map": "Modern Villa",
+      "view_map": "https://api.mcpedl.com/storage/submissions/99053/100/2b7a9bb384364848af425b883ff9c71e_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Modern Villa.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Modern Villa.html"
+    },
+    {
+      "name_map": "One Blocco 2023",
+      "view_map": "https://api.mcpedl.com/storage/submissions/77177/106/20230205231141_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/One Blocco 2023.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/One Blocco 2023.html"
+    },
+    {
+      "name_map": "Parkour Corridor 4",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98567/100/pc4_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Parkour Corridor 4.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Parkour Corridor 4.html"
+    },
+    {
+      "name_map": "Prime Gacha PvP",
+      "view_map": "https://api.mcpedl.com/storage/submissions/94475/100/primegatyapvpaien_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Prime Gacha PvP.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Prime Gacha PvP.html"
+    },
+    {
+      "name_map": "Raid Arena Competitive kitPvP",
+      "view_map": "https://api.mcpedl.com/storage/submissions/53056/131/raidarena210_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Raid Arena Competitive kitPvP.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Raid Arena Competitive kitPvP.html"
+    },
+    {
+      "name_map": "Raid Zombies",
+      "view_map": "https://api.mcpedl.com/storage/submissions/97721/102/raidzombies2picture_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Raid Zombies.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Raid Zombies.html"
+    },
+    {
+      "name_map": "SkyChunks Reimagined",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98288/100/dimensionen-einstellen-720x340-px_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/SkyChunks Reimagined.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/SkyChunks Reimagined.html"
+    },
+    {
+      "name_map": "The Challenge",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98950/100/minecraft-06032023-142414_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/The Challenge.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/The Challenge.html"
+    },
+    {
+      "name_map": "The Mystery of the Missing Chef",
+      "view_map": "https://api.mcpedl.com/storage/submissions/81168/100/picsart220206153203409_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/The Mystery of the Missing Chef.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/The Mystery of the Missing Chef.html"
+    },
+    {
+      "name_map": "Undertale Recreation Role-Play",
+      "view_map": "https://api.mcpedl.com/storage/submissions/99148/101/de8e7add1d554499a64ab4680a11e1e1_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Undertale Recreation Role-Play.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Undertale Recreation Role-Play.html"
+    },
+    {
+      "name_map": "Various Colors",
+      "view_map": "https://api.mcpedl.com/storage/submissions/98178/100/-2--_1-520x245.png",
+      "map_url": "https://thirteenvideo.com/MinecraftMod/Map/Various Colors.mcworld",
+      "des_map": "https://thirteenvideo.com/MinecraftMod/Map/Various Colors.html"
+    }
+  ]
+}
