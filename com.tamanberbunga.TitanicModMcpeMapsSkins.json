@@ -50,7 +50,7 @@
   },
 
   "app_settings": {
-    "enable_intro_mod_addon" : true,
+    "enable_intro_mod_addon" : false,
     "contentType": "maps",
     "enable_intro_mod_addon_banner_ads" : false,
     "template_mode": 2,
