@@ -5,10 +5,35 @@
       "interval_interstitial": 3,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true
+      "make_app_crash": false,
+      "ad_network_order": "percent_order"
     },
 
     "ad_network": [
+       {
+        "name": "admob_windu",
+        "value": 99,
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+       {
+        "name": "applovin",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
       {
         "name": "startapp",
         "value": 1,
@@ -186,6 +211,13 @@
   ],
 
   "Addons": [
+    {
+      "name_add": "Doors 2 Mod",
+      "addB_url": "https://app.labigsharim.me/dev_agus_amikom/Taman_Berbunga_Konten/com.tamanberbunga.Doors2McpeMod/addon/yourdoors-beta2-bp.mcpack",
+      "addR_url": "https://app.labigsharim.me/dev_agus_amikom/Taman_Berbunga_Konten/com.tamanberbunga.Doors2McpeMod/addon/yourdoors-beta-2-rp.mcpack",
+      "view_add": "https://api.mcpedl.com/storage/submissions/154716/images/your-doors-addon--animated-doors-blocks_5.png",
+      "des_add": "https://app.labigsharim.me/dev_agus_amikom/Taman_Berbunga_Konten/com.tamanberbunga.Doors2McpeMod/addon/doors2.html"
+    },
     {
       "name_add": "Aquatic Creatures",
       "addB_url": "https://thirteenvideo.com/MinecraftMod/Addons/Aquatic Creatures B.mcaddon",
