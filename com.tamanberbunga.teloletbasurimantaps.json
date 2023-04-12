@@ -2,12 +2,37 @@
   "ads": {
     "settings": {
       "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
-      "interval_interstitial": 7,
+      "interval_interstitial": 5,
       "interstitial_type": "lap",
-      "switch_ads_type": "banner_native_linear"
+      "switch_ads_type": "banner_native_linear",
+      "ad_network_order": "percent_order"
     },
 
     "ad_network": [
+       {
+        "name": "admob_windu",
+        "value": 99,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~1163992918",
+        "banner": "ca-app-pub-1598318147841886/1311881310",
+        "mrec": "ca-app-pub-1598318147841886/1311881310",
+        "inter": "ca-app-pub-1598318147841886/1483271709",
+        "native_ad": "ca-app-pub-1598318147841886/6212854203",
+        "open_ad": "ca-app-pub-1598318147841886/1120309627",
+        "splash_ad": true
+      },
+       {
+        "name": "applovin",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
       {
         "name": "startapp",
         "value": 1,
