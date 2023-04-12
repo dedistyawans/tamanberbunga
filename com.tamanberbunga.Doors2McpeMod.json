@@ -14,12 +14,12 @@
         "name": "admob_windu",
         "value": 99,
 
-        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~2489231611",
+        "banner": "ca-app-pub-1598318147841886/3938292077",
+        "mrec": "ca-app-pub-1598318147841886/3938292077",
+        "inter": "ca-app-pub-1598318147841886/2269987183",
+        "native_ad": "ca-app-pub-1598318147841886/5447401597",
+        "open_ad": "ca-app-pub-1598318147841886/3232301793",
         "splash_ad": true
       },
        {
