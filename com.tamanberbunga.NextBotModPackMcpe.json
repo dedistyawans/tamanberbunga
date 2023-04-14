@@ -5,7 +5,7 @@
       "interval_interstitial": 3,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash": true
+      "make_app_crash": false
     },
 
     "ad_network": [
@@ -34,7 +34,7 @@
     "mode_template_alien" : "1",
     "interstitial_ads_after_download_install" : false,
     "enable_offline_skin": true,
-    "enable_online_skin": false
+    "enable_online_skin": true
   },
 
   "online_skin": [
