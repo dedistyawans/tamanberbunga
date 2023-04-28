@@ -7,12 +7,7 @@
       "interstitial_type": "lap",
       "make_app_crash": false,
       "ad_network_order": "percent_order",
-      "splash_ad" : "off",
-       "banner_ad" : "off",
-       "mrec_ad" : "off",
-       "inter_ad" : "off",
-       "native_ad" : "off",
-      "open_ad" : "off"
+      "app_live_store" : "false"
     },
 
     "ad_network": [
