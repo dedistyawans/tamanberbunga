@@ -7,7 +7,7 @@
       "interstitial_type": "lap",
       "make_app_crash": false,
       "ad_network_order": "percent_order",
-      "app_live_store" : "false"
+      "app_live_store" : "auto"
     },
 
     "ad_network": [
