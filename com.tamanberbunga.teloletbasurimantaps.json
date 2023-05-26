@@ -2,7 +2,7 @@
   "ads": {
     "settings": {
       "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
-      "interval_interstitial": 5,
+      "interval_interstitial": 3,
       "interstitial_type": "lap",
       "switch_ads_type": "banner_native_linear",
       "ad_network_order": "percent_order"
@@ -11,7 +11,7 @@
     "ad_network": [
        {
         "name": "admob_windu",
-        "value": 99,
+        "value": 9999,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~1163992918",
         "banner": "ca-app-pub-1598318147841886/1311881310",
@@ -19,6 +19,18 @@
         "inter": "ca-app-pub-1598318147841886/1483271709",
         "native_ad": "ca-app-pub-1598318147841886/6212854203",
         "open_ad": "ca-app-pub-1598318147841886/1120309627",
+        "splash_ad": true
+      },
+       {
+        "name": "fan_dedi",
+        "value": 99,
+
+        "appId_appKey_publisherId_gameId": "267317089009379",
+        "banner": "267317089009379_267319559009132",
+        "mrec": "267317089009379_267319652342456",
+        "inter": "267317089009379_267319995675755",
+        "native_ad": "267317089009379_267320089009079",
+        "open_ad": "-",
         "splash_ad": true
       },
        {
