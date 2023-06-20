@@ -24,8 +24,8 @@
         "splash_ad": true
       },
        {
-        "name": "fan_dedi",
-        "value": 99,
+        "name": "x_fan_dedi",
+        "value": 0,
 
         "appId_appKey_publisherId_gameId": "944423810124274",
         "banner": "944423810124274_944424193457569",
@@ -35,14 +35,17 @@
         "open_ad": "-",
         "splash_ad": true
       },
-       {
-        "name": "applovin",
-        "value": 1,
+        {
+        "name": "max_dedi",
+        "value": 100,
+         "min_time":120,
+         "open_ad_mode" : "interstitial",
+         "splash_ad_mode": "interstitial",
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
-        "banner": "-",
+        "banner": "6a5c65a0ed23f5e8",
         "mrec": "-",
-        "inter": "-",
+        "inter": "4358bd249da2cdb3",
         "native_ad": "-",
         "open_ad": "-",
         "splash_ad": true
