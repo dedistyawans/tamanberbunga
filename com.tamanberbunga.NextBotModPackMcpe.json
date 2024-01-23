@@ -11,15 +11,15 @@
 
     "ad_network": [
       {
-        "name": "admob_windu",
+        "name": "admob_heru",
         "value": 99,
 
-        "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~6676878319",
-        "banner": "ca-app-pub-1598318147841886/9120080963",
-        "mrec": "ca-app-pub-1598318147841886/9120080963",
-        "inter": "ca-app-pub-1598318147841886/5915047712",
-        "native_ad": "ca-app-pub-1598318147841886/8884277248",
-        "open_ad": "ca-app-pub-1598318147841886/2450730838",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~9711210154",
+        "banner": "ca-app-pub-3261537079314282/5917157575",
+        "mrec": "ca-app-pub-3261537079314282/5917157575",
+        "inter": "ca-app-pub-3261537079314282/7596182707",
+        "native_ad": "off",
+        "open_ad": "ca-app-pub-3261537079314282/8351749226",
         "splash_ad": true
       },
        {
