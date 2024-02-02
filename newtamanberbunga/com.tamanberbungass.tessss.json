@@ -10,14 +10,14 @@
 
     "ad_network": [
       {
-        "name": "admob",
+        "name": "xadmob",
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "ca-app-pub-3940256099942544/6300978111",
         "inter": "ca-app-pub-3940256099942544/1033173712"
       },
       {
-        "name": "fan",
+        "name": "xfan",
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "YOUR_PLACEMENT_ID",
