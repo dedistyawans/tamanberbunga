@@ -10,11 +10,11 @@
 
     "ad_network": [
       {
-        "name": "xadmob",
+        "name": "admob",
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "inter": "ca-app-pub-3940256099942544/1033173712"
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~5476337700",
+        "banner": "ca-app-pub-3261537079314282/3428473452",
+        "inter": "ca-app-pub-3261537079314282/9307771501"
       },
       {
         "name": "xfan",
