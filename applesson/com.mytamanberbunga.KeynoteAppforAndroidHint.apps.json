@@ -3,7 +3,7 @@
     "settings": {
       "start_interval_interstitial_in_second": 30,
       "interval_interstitial_in_second": 60,
-      "interval_interstitial_in_counter": 2,
+      "interval_interstitial_in_counter": 3,
       "app_must_live_at_play_store": true,
       "time_out_load_ad" : 12
     },
@@ -13,8 +13,8 @@
         "name": "admob",
 
         "appId_appKey_publisherId_gameId": "-",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "inter": "ca-app-pub-3940256099942544/1033173712"
+        "banner": "ca-app-pub-3261537079314282/5639659662",
+        "inter": "ca-app-pub-3261537079314282/5340276762"
       },
       {
         "name": "xfan",
