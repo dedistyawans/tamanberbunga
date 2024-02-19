@@ -1,0 +1,28 @@
+{
+  "ads": {
+    "settings": {
+      "start_interval_interstitial_in_second": 30,
+      "interval_interstitial_in_second": 60,
+      "interval_interstitial_in_counter": 3,
+      "app_must_live_at_play_store": true,
+      "time_out_load_ad" : 12
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "ca-app-pub-3261537079314282/2795672779",
+        "inter": "ca-app-pub-3261537079314282/1482591106"
+      },
+      {
+        "name": "xfan",
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "YOUR_PLACEMENT_ID",
+        "inter": "YOUR_PLACEMENT_ID"
+      }
+    ]
+  }
+}
