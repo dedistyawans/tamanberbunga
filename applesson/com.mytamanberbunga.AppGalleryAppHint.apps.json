@@ -17,11 +17,11 @@
         "inter": "ca-app-pub-3261537079314282/6132266641"
       },
       {
-        "name": "xfan",
+        "name": "fan",
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "YOUR_PLACEMENT_ID",
-        "inter": "YOUR_PLACEMENT_ID"
+        "appId_appKey_publisherId_gameId": "1488066142137960",
+        "banner": "1488066142137960_1488067272137847",
+        "inter": "1488066142137960_1488067388804502"
       }
     ]
   }
